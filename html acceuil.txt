@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css page2.css">
+    <script src="https://kit.fontawesome.com/0dad4b6a39.js" crossorigin="anonymous"></script>
+    <title> MentalHealthHub</title>
+</head>
+<body>
+    <div class="container">
+    <nav>
+        <img src="imgg.png" class="logo">
+        <ul>
+            <li><a href="#">Comment ça marche ?</a></li>
+            <li><a href="#">Annuaire des professionnels</a></li>
+            <li><a href="/Nous contacter/form.html">Nous Contacter</a></li>
+        </ul>
+        <button class="btn">Prendre un Rendez-vous</button>  
+    </nav>
+    <h1>Bienvenue sur MentalHealthHub</h1>
+    <br>
+    <h2>Le meilleur endroit pour surmonter vos difficultés psychologiques</h2>
+    <h1 id="hone">Consultez un psychologue en ligne quand vous le voulez et où que vous soyez</h1> .<br>
+     <h2 id="htwo">MentalHealthHub vous offre un service d'écoute, d'accompagnement et de soutien psychologique en ligne personnalisé et disponible 7j/7.</h2>
+    </div>
+    <div class ="main">
+        <h1 style="text-align: center;">Nos offres : </h1>
+        <section id="banner">
+            <h1><a href="#">Rendez-vous en ligne</a></h1>
+            <h1><a href="#">Page de Soutien pour les soignants</a></h1>
+            <h1><a href="#">Nos articles</a></h1>
+        </section>  
+        <section id="im" >
+            <img src="rdv.png" id="im1" >
+            <img src="infi.png" id="im2" >
+            <img src="article.png" id="im3">
+        </section>  
+        <section id="prg">
+            <p id="p1"> Bénéficiez d'une consultation privée de 45mn par vidéo-conférence concernant votre demande personnelle</p>
+            <p> Séance gratuite de 30mn pour les soignants </p>
+            <p>Consultez nos articles destinés au grand public et concernant le monde de la santé mentale</p>
+        </section>
+    </div>
+    <div class ="banner-card">
+        <img src="qsnn.png"> 
+        <div class="banner-text">
+            <h1>Qui Sommes-nous ?</h1>
+        </div>
+    </div>
+    <div class="plus">
+        <section id="prg1">
+        <p>Nous sommes un groupe de psychothérapeutes expérimentés, dont la plupart sont des psychiatres, installés en Tunisie et qui sont spécialisés dans des différentes techniques d’aide aux personnes présentant des difficultés psychologiques.
+            Cette plateforme n'est en aucun cas un lieu d'exercice de télémédecine. Aucune prescription médicamenteuse, ordonnance, certificat ou rapport médical ne peuvent être délivrés par nos thérapeutes aux personnes qui feront recours à nos services.</p>
+         <br>
+         <p>Notre équipe comporte des thérapeutes spécialisés en thérapie comportementale et cognitive, en sexologie et en psychologie de l'enfant. Ainsi, nous sommes habilités à prendre en charge de façon exclusivement psychothérapique toute souffrance psychique : angoisse, dépression, trouble du comportement, addiction, stress professionnel, trouble alimentaire, les problèmes de couple, les troubles liés à la sexualité et enfin les difficultés comportementales, émotionnelles et d’apprentissage des enfants. </p>   
+        <br>
+        <p>Nous avons lancé ce projet parce que nous avons constaté un besoin croissant chez les ressortissants Tunisiens, mais également Maghrébins, à l’étranger, de faire recours à des thérapeutes qui parlent leur langue maternelle et qui sont plus proches de leurs croyances et leur culture. Nous leur offrons ainsi cet espace confidentiel pour sortir de leur silence et exprimer leur détresse en toute confiance et sérénité. Ainsi, cette plateforme leur permet de prendre et de fixer leurs rendez-vous de façon spécifique et précise en fonction de leur besoin et de la nature de leur souffrance.</p>
+    </section>
+    
+    </div>
+    <footer>
+        <div class="footer">
+            <div class="footer-content">
+                <h3>Contact us</h3>
+                <br>
+                <p>Email:MentalHealthHub@gmail.com</p>
+                <br>
+                <p>Phone:+21696818563</p>
+            </div>
+            <div class="footer-cont">
+                <h3>Follow Us</h3>
+                <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+            </div>
+        </div>
+        <div class="bottom-bar">
+            <p>&copy; 2024 MentalHealthHub . All rights reserved</p>
+        </div>    
+     </footer>
+
+
+
+
+    </div>
+
+    
+</body>
+</html>
